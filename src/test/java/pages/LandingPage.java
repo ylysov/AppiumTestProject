@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 
 public class LandingPage extends PageBase {
 
-    String newstring = "lalala";
+    String newstring = "xaxaxaxa";
 
     String emailButtonId = "am.sunrise.android.calendar:id/button_connect_with_email";
 
